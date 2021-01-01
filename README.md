@@ -1,4 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Gioco di Memory
+## React Generatin a Styled(css) Random Users List using randomuser.me
 
